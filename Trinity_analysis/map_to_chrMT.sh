@@ -1,0 +1,1 @@
+blat hg38_chrM.fasta HEK293_total_POOLED_trinity_Trinity.fasta -t=dna -q=rna -out=pslx 2020-07-01_HEK293_total_Trinity_map_to_hg38_MT.pslx
